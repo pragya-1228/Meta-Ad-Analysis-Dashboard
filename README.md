@@ -100,6 +100,10 @@ The data model follows a structured schema optimized for performance and scalabi
 ---
 
 ## 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-dashboard_meta.png
+![Dashboard Screenshot](dashboard_meta.png)
+
+
+
 
