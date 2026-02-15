@@ -101,5 +101,5 @@ The data model follows a structured schema optimized for performance and scalabi
 
 ## 📷 Dashboard Preview
 
-(Add screenshots below)
+dashboard_meta.png
 
